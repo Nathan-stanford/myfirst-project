@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>404 Error</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>The page you are looking for could not be found</td>
+      </tr>
+    </table>
+  </body>
+</html>
